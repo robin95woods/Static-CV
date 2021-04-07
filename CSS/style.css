@@ -1,0 +1,47 @@
+body {
+    background-color:#f0dea3;
+}
+.Links {
+    background-color:#cda575;
+    border: black;
+    border-style: double;
+}
+
+img{
+    border-color:#a8962d;
+    border-width: 5px 10px;
+    border-style: double;
+    background-color:#f6f4e7;
+    
+}
+
+hr{
+    color: #82481c;
+    border-style: double;
+}
+
+#hobbies{
+    background-color:#ffc40035;
+    
+}
+
+.Contact{
+    background-color:#cda575;
+    border: black;
+    border-style: double;
+    text-align: center;
+    width: 20%;
+    margin: auto;
+    
+}
+
+p, h1, h2, em, strong, i {
+    color:#000000;
+}
+
+a {
+    color:#884c2b;
+}
+
+
+
